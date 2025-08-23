@@ -1,12 +1,16 @@
 ## Stop Tracking All
 
+[GitHub](https://github.com/ewigl/nexusmods-stop-tracking-all)
+
+[GreasyFork](https://greasyfork.org/scripts/546906)
+
 批量取消 Track Nexus Mods 上的模组。 / Stop tracking multiple mods at once on Nexus Mods.
 
 ### 用法 / Usage
 
 **谨慎使用！** / **Use with caution!**
 
-在 Nexus Mods 的 **Tracking Centre** 页面，打开浏览器控制台，输入 `elStopTrackingAll()` ，回车来取消当前页面显示的所有已追踪的模组。
+在 Nexus Mods 的 **Tracking Centre** 页面，打开浏览器控制台，输入 `elStopTrackingAll()` 并回车，以取消追踪当前页面显示的所有模组。
 
 /
 
