@@ -1,14 +1,15 @@
 // ==UserScript==
-// @name        Stop Tracking All
-// @name:en     Stop Tracking All
-// @namespace   https://github.com/ewigl/nexusmods-stop-tracking-all
-// @match       https://www.nexusmods.com/mods/trackingcentre*
-// @match       https://www.nexusmods.com/*/mods/trackingcentre*
-// @grant       unsafeWindow
-// @version     1.0
-// @author      Licht
-// @license     MIT
-// @description 批量取消 Track Nexus Mods 上的模组。
+// @name            Stop Tracking All
+// @name:en         Stop Tracking All
+// @namespace       https://github.com/ewigl/nexusmods-stop-tracking-all
+// @icon            https://www.nexusmods.com/favicon.ico
+// @match           https://www.nexusmods.com/mods/trackingcentre*
+// @match           https://www.nexusmods.com/*/mods/trackingcentre*
+// @grant           unsafeWindow
+// @version         1.0.1
+// @author          Licht
+// @license         MIT
+// @description     批量取消关注 Nexusmods 上的模组。
 // @description:en  Stop tracking multiple mods at once on Nexus Mods.
 // ==/UserScript==
 
